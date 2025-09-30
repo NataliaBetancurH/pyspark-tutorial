@@ -1,0 +1,103 @@
+ID,Departamento,Genero,Grado
+1,Santander,Masculino,Primaria
+2,Santander,F,Secundaria
+3,Valle del Cauca,Femenino,Bachillerato
+3,Valle del Cauca,Femenino,Bachillerato
+3,Valle del Cauca,Femenino,Bachillerato
+4,Antioquia,M,Primaria
+5,Bogotá DC,Fe,Primaria
+6,Antioquia,Masculino,Secundaria
+7,Valle del Cauca,M,11
+8,Antioquia,M,Secundaria
+9,Santander,M,10
+10,Valle del Cauca,Fe,11
+11,Cundinamarca,Masculino,Secundaria
+12,Santander,Fe,9no
+13,Cundinamarca,Femenino,Secundaria
+14,Atlántico,F,Primaria
+15,Antioquia,Fe,Primaria
+16,Cundinamarca,F,11
+17,Cundinamarca,Masculino,Bachillerato
+18,Bogotá,M,Primaria
+19,Bogotá,Masculino,11
+20,Cundinamarca,M,9no
+21,Bogotá DC,Femenino,Bachillerato
+22,Antioquia,Masculino,Bachillerato
+23,Valle del Cauca,F,Primaria
+24,Atlántico,Femenino,Primaria
+25,Bogotá,F,10
+26,Santander,F,Secundaria
+27,Cundinamarca,F,Secundaria
+28,Santander,F,Bachillerato
+29,Santander,Masculino,11
+30,Santander,Femenino,11
+31,Santander,Femenino,Secundaria
+32,Bogotá,Fe,9no
+33,Santander,M,Secundaria
+34,Santander,F,Primaria
+35,Valle del Cauca,Masculino,9no
+36,Bogotá,F,Primaria
+37,Valle del Cauca,M,Bachillerato
+38,Cundinamarca,Femenino,Bachillerato
+39,Bogotá,Fe,Bachillerato
+40,Bogotá,Femenino,9no
+41,Valle del Cauca,Femenino,Bachillerato
+42,Bogotá DC,M,9no
+43,Santander,M,10
+44,Bogotá DC,Fe,9no
+45,Valle del Cauca,Femenino,11
+46,Bogotá,Masculino,Primaria
+47,Atlántico,Masculino,Secundaria
+48,Santander,Femenino,Bachillerato
+49,Bogotá,M,Primaria
+50,Bogotá,Fe,11
+51,Bogotá,M,9no
+52,Bogotá DC,Masculino,Bachillerato
+53,Santander,Masculino,Bachillerato
+54,Bogotá DC,F,Bachillerato
+55,Cundinamarca,Masculino,9no
+56,Bogotá,Femenino,10
+57,Antioquia,F,11
+58,Atlántico,Femenino,11
+59,Antioquia,F,Bachillerato
+60,Bogotá DC,M,Secundaria
+61,Valle del Cauca,F,Secundaria
+62,Bogotá DC,M,Primaria
+63,Bogotá DC,F,10
+64,Antioquia,Masculino,9no
+65,Atlántico,F,Secundaria
+66,Antioquia,Femenino,11
+67,Antioquia,Masculino,Bachillerato
+68,Bogotá,Masculino,11
+69,Atlántico,Femenino,
+70,Santander,Fe,11
+71,Valle del Cauca,F,11
+72,Atlántico,M,10
+73,Valle del Cauca,M,Bachillerato
+74,Santander,Femenino,Bachillerato
+75,Cundinamarca,Fe,Bachillerato
+76,Santander,F,10
+77,Bogotá DC,Fe,Primaria
+78,Valle del Cauca,Femenino,Primaria
+79,Cundinamarca,Masculino,11
+80,Bogotá DC,Femenino,11
+81,Valle del Cauca,Masculino,Primaria
+82,Santander,Masculino,Secundaria
+83,Antioquia,Masculino,9no
+84,Antioquia,M,Secundaria
+85,Cundinamarca,Fe,Secundaria
+86,Bogotá DC,Femenino,Bachillerato
+87,Bogotá DC,M,10
+88,Valle del Cauca,Fe,10
+89,Valle del Cauca,Masculino,Primaria
+90,Santander,Fe,9no
+91,Bogotá,Fe,10
+92,Atlántico,Masculino,Bachillerato
+93,Santander,Masculino,Primaria
+94,Bogotá,F,Primaria
+95,Valle del Cauca,Femenino,Secundaria
+96,Bogotá DC,Fe,Secundaria
+97,Bogotá,Femenino,9no
+98,Bogotá,Femenino,Primaria
+99,Bogotá,,Primaria
+100,Antioquia,,Primaria
