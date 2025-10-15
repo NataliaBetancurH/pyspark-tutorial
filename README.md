@@ -3,7 +3,7 @@
 Este repositorio contiene cuatro laboratorios prácticos diseñados para aprender PySpark desde cero, comprender cómo trabaja con Big Data y aplicar modelos de aprendizaje automático distribuidos.
 Todo está optimizado para ejecutarse fácilmente en Google Colab, sin necesidad de instalaciones locales.
 
-1. Introducción a PySpark con Google Colab
+## 1. Introducción a PySpark con Google Colab
 
 Objetivo
 Aprender a configurar el entorno de PySpark en Google Colab y ejecutar operaciones básicas de análisis de datos distribuidos.
@@ -21,7 +21,7 @@ Aprendizaje clave
 Comprender cómo PySpark gestiona los datos de manera paralela y escalable, a diferencia de Python tradicional.
 
 
-2. Análisis de las 5V del Big Data con PySpark
+## 2. Análisis de las 5V del Big Data con PySpark
   
 Objetivo
 Explorar las 5 dimensiones del Big Data (Volumen, Velocidad, Variedad, Veracidad y Valor) utilizando un dataset educativo y las funciones de PySpark.
