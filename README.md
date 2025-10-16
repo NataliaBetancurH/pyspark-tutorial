@@ -39,7 +39,7 @@ Aprendizaje clave
 Evaluar la calidad y el potencial analítico de un dataset masivo aplicando las 5V con PySpark.
 
 
-## Conexión a Apache Spark y trabajo con RDDs
+## 3. Conexión a Apache Spark y trabajo con RDDs
 
 Objetivo
 Comprender cómo funciona Apache Spark para el procesamiento distribuido de datos mediante la creación, transformación y análisis de RDDs (Resilient Distributed Datasets) en un entorno de práctica con Google Colab.
