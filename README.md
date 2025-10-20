@@ -5,7 +5,7 @@ Todo está optimizado para ejecutarse fácilmente en Google Colab, sin necesidad
 
 ## 1. Introducción a PySpark con Google Colab
 
-Objetivo
+Objetivo:
 Aprender a configurar el entorno de PySpark en Google Colab y ejecutar operaciones básicas de análisis de datos distribuidos.
 
 
@@ -17,17 +17,17 @@ Contenido
 
 * Exploración y manipulación básica de datos
 
-Aprendizaje clave
+Aprendizaje clave:
 Comprender cómo PySpark gestiona los datos de manera paralela y escalable, a diferencia de Python tradicional.
 
 
 ## 2. Análisis de las 5V del Big Data con PySpark
   
-Objetivo
+Objetivo:
 Explorar las 5 dimensiones del Big Data (Volumen, Velocidad, Variedad, Veracidad y Valor) utilizando un dataset educativo y las funciones de PySpark.
 
 
-Componentes Analizados
+Contenido
 
 * Volumen: Conteo de registros, columnas y datos nulos.
 * Velocidad: Medición del tiempo de ejecución de operaciones distribuidas.
@@ -35,13 +35,13 @@ Componentes Analizados
 * Veracidad: Limpieza, eliminación de duplicados y estandarización de valores.
 * Valor: Obtención de insights a partir de agrupaciones e indicadores estadísticos.
 
-Aprendizaje clave
+Aprendizaje clave:
 Evaluar la calidad y el potencial analítico de un dataset masivo aplicando las 5V con PySpark.
 
 
 ## 3. Conexión a Apache Spark y trabajo con RDDs
 
-Objetivo
+Objetivo:
 Comprender cómo funciona Apache Spark para el procesamiento distribuido de datos mediante la creación, transformación y análisis de RDDs (Resilient Distributed Datasets) en un entorno de práctica con Google Colab.
 
 Componentes Analizados
@@ -52,5 +52,20 @@ Componentes Analizados
 * Ejecución de acciones (take, count, collect).
 * Simulación del procesamiento distribuido y almacenamiento en caché.
 
-Aprendizaje Clave
+Aprendizaje Clave:
 Entender del modelo de ejecución distribuido de Spark.
+
+
+## 4. Codificación y transformación de variables
+
+Objetivo:
+Desarrollar habilidades fundamentales para preparar datos antes de entrenar modelos de inteligencia artificial.
+
+Contenido
+
+* Identificación de variables categóricas y numéricas
+* Codificación de variables categóricas
+* Transformación de variables numéricas
+
+Aprendizaje Clave:
+Comprender la importancia del preprocesamiento en flujos de IA.
